@@ -1,0 +1,9 @@
+c:\users\larry\documents\visual studio 2012\Projects\LarisoftCleanDesktop\LarisoftCleanDesktop\bin\Debug\LarisoftCleanDesktop.exe.config
+c:\users\larry\documents\visual studio 2012\Projects\LarisoftCleanDesktop\LarisoftCleanDesktop\bin\Debug\LarisoftCleanDesktop.exe
+c:\users\larry\documents\visual studio 2012\Projects\LarisoftCleanDesktop\LarisoftCleanDesktop\bin\Debug\LarisoftCleanDesktop.pdb
+c:\users\larry\documents\visual studio 2012\Projects\LarisoftCleanDesktop\LarisoftCleanDesktop\obj\Debug\LarisoftCleanDesktop.exe
+c:\users\larry\documents\visual studio 2012\Projects\LarisoftCleanDesktop\LarisoftCleanDesktop\obj\Debug\LarisoftCleanDesktop.pdb
+c:\users\larry\documents\visual studio 2012\Projects\LarisoftCleanDesktop\LarisoftCleanDesktop\bin\Debug\LarisoftCleanDesktop.exe.manifest
+c:\users\larry\documents\visual studio 2012\Projects\LarisoftCleanDesktop\LarisoftCleanDesktop\bin\Debug\LarisoftCleanDesktop.application
+c:\users\larry\documents\visual studio 2012\Projects\LarisoftCleanDesktop\LarisoftCleanDesktop\obj\Debug\LarisoftCleanDesktop.exe.manifest
+c:\users\larry\documents\visual studio 2012\Projects\LarisoftCleanDesktop\LarisoftCleanDesktop\obj\Debug\LarisoftCleanDesktop.application
