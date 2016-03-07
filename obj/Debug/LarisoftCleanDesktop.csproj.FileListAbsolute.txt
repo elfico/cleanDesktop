@@ -7,3 +7,6 @@ c:\users\larry\documents\visual studio 2012\Projects\LarisoftCleanDesktop\Lariso
 c:\users\larry\documents\visual studio 2012\Projects\LarisoftCleanDesktop\LarisoftCleanDesktop\bin\Debug\LarisoftCleanDesktop.application
 c:\users\larry\documents\visual studio 2012\Projects\LarisoftCleanDesktop\LarisoftCleanDesktop\obj\Debug\LarisoftCleanDesktop.exe.manifest
 c:\users\larry\documents\visual studio 2012\Projects\LarisoftCleanDesktop\LarisoftCleanDesktop\obj\Debug\LarisoftCleanDesktop.application
+C:\Users\Larry\documents\visual studio 2012\Projects\LarisoftCleanDesktop\LarisoftCleanDesktop\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Larry\documents\visual studio 2012\Projects\LarisoftCleanDesktop\LarisoftCleanDesktop\obj\Debug\LarisoftCleanDesktop.csproj.ResolveComReference.cache
+C:\Users\Larry\documents\visual studio 2012\Projects\LarisoftCleanDesktop\LarisoftCleanDesktop\obj\Debug\LarisoftCleanDesktop.csprojResolveAssemblyReference.cache
